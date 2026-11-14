@@ -103,3 +103,7 @@ loss, and is why real systems batch writes ("group commit").
 src/main/java/dev/rakshit/kv/   KvStore, Wal, SSTable, MergeIterator, BloomFilter, Options, Hooks, Entry
 src/test/java/dev/rakshit/kv/   BasicTests, RecoveryTests, CrashInjectionTests, ComponentTests, Bench, testkit/
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
